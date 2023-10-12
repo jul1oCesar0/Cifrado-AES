@@ -1,0 +1,60 @@
+button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  button.descifrar {
+    background-color: red;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 2px;
+  }
+  
+  input[type="text"] {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  center {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  #container {
+    width: 150%;
+    max-width: 600px;
+    padding: 20px;
+    border: 2px solid #07080a;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #32c6f7;
+  }
+  
+  legend {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
